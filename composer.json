@@ -3,9 +3,9 @@
     "description": "Lightna Redis module",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "require": {
         "ext-redis": "*",
-        "lightna/lightna.engine": "^1.0"
+        "lightna/lightna.engine": "^1.0.4"
     }
 }
